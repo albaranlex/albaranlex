@@ -2,8 +2,9 @@
 
 🌱 I’m currently learning Full Stack Web Development.
 
-⚡ Feel free to visit my very first website:\ 
-https://albaranlex.netlify.app/
+⚡ Feel free to visit my very first website:
+
+https://albaranlex.netlify.app
 
 
 <!--
