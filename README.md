@@ -1,4 +1,4 @@
-### Hi I'm Alex 👋
+### ❝Hi I'm Alex❞ 👋
 
 ► I’m currently learning Full Stack Web Development.
 
