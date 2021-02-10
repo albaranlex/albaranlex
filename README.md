@@ -1,10 +1,10 @@
 ### Hi I'm Alex 👋
 
-🌱 I’m currently learning Full Stack Web Development.
+► I’m currently learning Full Stack Web Development.
 
-⚡ Feel free to visit my very first website:
+► Feel free to visit my very first website:
 
-https://albaranlex.netlify.app
+  https://albaranlex.netlify.app
 
 
 <!--
