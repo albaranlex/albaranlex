@@ -4,7 +4,7 @@
 
 ► Feel free to visit my very first website:
 
- [https://albaranlex.netlify.app](albaranlex.netlify.app/?target=_blank)
+ [albaranlex.netlify.app](https://albaranlex.netlify.app/?target=_blank)
 
 
 <!--
