@@ -1,10 +1,12 @@
-<h3 align="center"> I'm a sucker for Symmetry and Languages. </h3>
+<h1 align="center"> I'm a sucker for Symmetry and Languages. </h1>
 
 &nbsp;**ABOUT ME**
 
-&nbsp;&nbsp;&nbsp;:man_student:&nbsp; I have a degree in  Nursing Science and Medicine but that's not why you are here, aren't you? ;) \
-&nbsp;&nbsp;&nbsp;:briefcase:&nbsp; Industries I have worked in are Education, Pharmaceuticals, Banking, Architecture, Healthcare and hopefully Tech soon! \
-&nbsp;&nbsp;&nbsp;:hammer_and_wrench:&nbsp; Currently a Full Stack Development Student at Digital Career Institute - Hamburg, Germany.
+<h3>&nbsp;&nbsp;&nbsp;:man_student:&nbsp; I have a degree in  Nursing Science and Medicine but that's not why you are here, aren't you? ;)</h3>
+<hr>
+<h3>&nbsp;&nbsp;&nbsp;:hammer_and_wrench:&nbsp; Currently: Full Stack Dev Student @ <a href="https://digitalcareerinstitute.org/">Digital Career Institute </a> | Hamburg, DE
+  <br />
+    <br />
 
 <p align="center">
   <a href="mailto:albaranlex@outlook.com?subject=Olá%20Bruno%20Tacca"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -28,7 +30,6 @@
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-%23F05033.svg?&style=flat&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white)&nbsp;
-![GitLab](https://img.shields.io/badge/GITLAB-%23181717.svg?&style=flat&logo=gitlab&logoColor=white)&nbsp;
 ![VSCode](https://img.shields.io/badge/VSCODE-007ACC.svg?&style=flat&logo=visual-studio-code)&nbsp;
 
 </details>
