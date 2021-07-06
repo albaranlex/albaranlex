@@ -4,7 +4,7 @@
 
 &nbsp;&nbsp;&nbsp;:man_student:&nbsp; I have a degree in  Nursing Science and Medicine but that's not why you are here, aren't you? ;) \
 &nbsp;&nbsp;&nbsp;:briefcase:&nbsp; Industries I have worked in are Education, Pharmaceuticals, Banking, Architecture, Healthcare and hopefully Tech soon! \
-&nbsp;&nbsp;&nbsp;:hammer_and_wrench:&nbsp; Currently a Full Stack Development Student at Digital Career Institute - Hamburg, Germany.\
+&nbsp;&nbsp;&nbsp;:hammer_and_wrench:&nbsp; Currently a Full Stack Development Student at Digital Career Institute - Hamburg, Germany.
 
 <p align="center">
   <a href="mailto:albaranlex@outlook.com?subject=Olá%20Bruno%20Tacca"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
