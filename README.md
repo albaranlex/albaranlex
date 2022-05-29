@@ -4,7 +4,7 @@
 
 <h3>&nbsp;&nbsp;&nbsp;:man_student:&nbsp; I have a degree in  Nursing Science and Medicine but that's not why you are here, aren't you? ;)</h3>
 <hr>
-<h3>&nbsp;&nbsp;&nbsp;:hammer_and_wrench:&nbsp; Currently: Full Stack Web Development Intern @ <a href="https://apartmen.io/home">apartmen UG</a> | Hamburg, DE
+<h3>&nbsp;&nbsp;&nbsp;:hammer_and_wrench:&nbsp; Currently: Frontend Developer / UX Designer  @ <a href="https://www.lifebonus.health/">LifeBonus Health</a> | Hamburg, DE
   <br />
     <br />
 
